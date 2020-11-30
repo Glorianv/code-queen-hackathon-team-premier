@@ -1,0 +1,24 @@
+.maincontainer{
+    background-color:rgb(236, 236, 134);
+}
+.doc{
+    background-color:rgb(236, 236, 134) ;
+    width: 600px;
+    margin:auto;
+    align-content:center;
+}
+.logo{
+    width:70px;
+    height: 90px;
+    align-content: center;
+    padding: 10px;
+}
+.doc > h1{
+    color:rgb(29, 151, 29);
+}
+#information > p{
+    color: rgb(218, 105, 105);
+}
+#information > h3{
+    color:rgb(136, 60, 60) ;
+}
