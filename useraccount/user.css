@@ -1,4 +1,18 @@
+.maindoc{
+    width: 700px;
+    margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
+}
 .grail{
-    background-image: url(https://pbs.twimg.com/media/EgaHGxVXkAE0YRg.jpg:large);
+    
     background-size: cover;
+}
+.input-fields{
+    margin: 2rem;
+    width: 5rem;
+    height: 1rem;
+}
+.connections{
+    width: 20rem;
+    margin: 1rem;
 }

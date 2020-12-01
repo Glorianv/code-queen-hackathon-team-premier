@@ -2,8 +2,7 @@
     width: 700px;
     margin: 0 auto;
     text-align: center;
-    font-family: 'Lobster Two', cursive;
-font-family: 'Patrick Hand', cursive;
+    font-family: 'Open Sans', sans-serif;
     font-size: large;
 }
 
@@ -17,10 +16,20 @@ font-family: 'Patrick Hand', cursive;
 }
 .sign-up-button{
     margin-right: 5rem;
-    border: 0;
+    /* border: 0; */
+    /* background-color: gray; */
+    border-radius: 10%;
+    padding: 10px;
+    width: 5rem;
+
 }
 .log-in-button{
-    margin-left: 2rem;
+    margin-right: 5rem;
+    /* border: 0; */
+    /* background-color: gray; */
+    border-radius: 10%;
+    padding: 10px;
+    width: 5rem;
 }
 .greylinks{
     padding-top: 10rem;
