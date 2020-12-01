@@ -1,0 +1,28 @@
+.welcome{
+    width: 700px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+font-family: 'Patrick Hand', cursive;
+    font-size: large;
+}
+
+.logo{
+    margin: 0 auto;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    
+}
+.sign-up-button{
+    margin-right: 5rem;
+    border: 0;
+}
+.log-in-button{
+    margin-left: 2rem;
+}
+.greylinks{
+    padding-top: 10rem;
+    padding-left: 5rem;
+}
