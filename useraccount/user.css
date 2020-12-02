@@ -1,3 +1,6 @@
+body{
+    background-color: orange;
+}
 .maindoc{
     width: 700px;
     margin: 0 auto;
@@ -8,11 +11,36 @@
     background-size: cover;
 }
 .input-fields{
-    margin: 2rem;
-    width: 5rem;
+    margin-bottom: 3rem;
+    width: 30rem;
     height: 1rem;
 }
 .connections{
     width: 20rem;
     margin: 1rem;
+}
+#name{
+    width: 30rem;
+    height: 2rem;
+
+}
+#country{
+    width: 30rem;
+    height: 2rem;
+}
+#web{
+    width: 30rem;
+    height: 2rem;
+}
+#number{
+    width: 30rem;
+    height: 2rem;
+}
+#user{
+    width: 30rem;
+    height: 2rem;
+}
+#pass{
+    width: 30rem;
+    height: 2rem;
 }

@@ -1,19 +1,41 @@
 .the-main{
     width: 700px;
     margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
+    justify-content: center;
 }.logo{
-    margin: 0 auto;
+    margin: auto;
 }.inputs{
-    margin: 2rem;
+    /* margin: 2rem; */
     height: 1rem;
     width: 15rem;
 }
-.stud{
-    margin: 5rem
+#stud{
+    border-radius: 10%;
+    margin-right: 2rem;
+    padding: 10px;
 }
-.men{
-    margin: 5rem
+#men{
+    border-radius: 10%;
+    margin-right: 2rem;
+    padding: 10px;
+    
 }
-.buttonemp{
-    margin: 5rem
+#buttonemp{
+    border-radius: 10%;
+    /* margin-right: 2rem; */
+    padding: 10px;
+   
+}
+#btn{
+    margin-bottom: 5rem;
+}
+.forgot{
+    justify-content: left;
+}
+.forms-email{
+    margin-bottom: 2rem;
+}
+.forms-pswd{
+    margin-bottom: 2rem;
 }
