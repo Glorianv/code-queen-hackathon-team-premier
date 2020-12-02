@@ -1,10 +1,21 @@
+body{
+    background-image: url(cqimage.jpg);
+    background-size: cover;
+}
 .the-main{
-    width: 700px;
+    width: 500px;
     margin: 0 auto;
+    text-align: center;
     font-family: 'Open Sans', sans-serif;
     justify-content: center;
+    /* border: 1px solid rgb(241, 4, 4); */
+    background-color: rgba(255, 166, 0, 0.979);
+    opacity: 0.9;
+    padding: 1rem;
+    
 }.logo{
     margin: auto;
+    border-radius: 10%;
 }.inputs{
     /* margin: 2rem; */
     height: 1rem;

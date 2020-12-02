@@ -5,6 +5,10 @@ body{
     width: 700px;
     margin: 0 auto;
     font-family: 'Open Sans', sans-serif;
+    border: 1px solid black;
+    padding-left: 15px;
+    background-color: white;
+    border-radius: 5%;
 }
 .grail{
     
@@ -22,25 +26,41 @@ body{
 #name{
     width: 30rem;
     height: 2rem;
+    background-color: rgb(223, 215, 215);
 
 }
 #country{
     width: 30rem;
     height: 2rem;
+    background-color: rgb(223, 215, 215);
 }
 #web{
     width: 30rem;
     height: 2rem;
+    background-color: rgb(223, 215, 215);
 }
 #number{
     width: 30rem;
     height: 2rem;
+    background-color: rgb(223, 215, 215);
 }
 #user{
     width: 30rem;
     height: 2rem;
+    background-color: rgb(223, 215, 215);
 }
 #pass{
     width: 30rem;
     height: 2rem;
+    background-color: rgb(223, 215, 215);
+}
+#next{
+    padding-left: 38rem;
+    padding-bottom: 1rem;
+    
+}
+.nxt-btn{
+    background-color: blue;
+    color: white;
+    border: 0;
 }
