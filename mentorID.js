@@ -14,7 +14,7 @@ logInMentorBtn .addEventListener("click",) => {
     let userName = document .getElementById("user").value
     let passWord = document .getElementById ("password").value;
 
-    fetch ("http:....",{
+    fetch ("http:lo",{
         method: "POST",
         headers:{
             "content-type":"application/json"
