@@ -2,3 +2,21 @@ body{
     background-image: url(cqimage.jpg);
     background-size: cover;
 }
+.about{
+    width: 300px;
+    height: 400px;
+    
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    justify-content: center;
+    /* border: 1px solid rgb(241, 4, 4); */
+    background-color: rgba(255, 166, 0, 0.979);
+    opacity: 0.9;
+    padding: 1rem;
+    margin-top: 5rem;
+    margin-left: 1rem;
+    border-radius: 2%;
+}
+.logo{
+    width: 4rem;
+}

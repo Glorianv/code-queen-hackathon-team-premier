@@ -1,0 +1,39 @@
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid gray;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: gray;
+}
+/* #student-data{
+  margin: 5rem;
+} */
+.container{
+  display: flex;
+  margin: 2rem;
+  width: 100%;
+  background-color: #eee;
+  opacity: 0.8;
+  height: 500px;
+}
+#data-for-students{
+  flex-grow: 60%;
+  margin-right: 5rem;
+  
+}
+.chart{
+  flex-grow: 40%;
+  margin-left: 5rem;
+}
+.logo{
+  width: 4rem;
+}

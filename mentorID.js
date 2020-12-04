@@ -14,13 +14,13 @@ logInMentorBtn .addEventListener("click",) => {
     let userName = document .getElementById("user").value
     let passWord = document .getElementById ("password").value;
 
-    fetch ("http:lo",{
+    fetch ("http:localhost:3000/users",{
         method: "POST",
         headers:{
             "content-type":"application/json"
         },
         body:JSON.stringify(userName:user,passWord:password,)
-    })
+    }),
     .then({res} => Response.JSON())
     .then (function(data){
         userinfo = data;
