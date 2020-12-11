@@ -37,3 +37,12 @@ tr:nth-child(even) {
 .logo{
   width: 4rem;
 }
+.col{
+  color: red;
+}
+.coll{
+  color: orange;
+}
+.colll{
+  color: green;
+}

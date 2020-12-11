@@ -23,37 +23,37 @@ let teams=[
         projectTitle:"Riders' register",
         projectFile:"reg.pdf"
     },
+    // {
+    //     teamName:"Premier",
+    //     teamMembers:"Nansubuga Gloria, Achieng Christine, Atukunda Zillah",
+    //     cohort:"Three",
+    //     year:"2020",
+    //     projectTitle:"Students' Tracking System",
+    //     projectFile:"sts.pdf"
+    // },
+    // {
+    //     teamName:"Premier",
+    //     teamMembers:"Nansubuga Gloria, Achieng Christine, Atukunda Zillah",
+    //     cohort:"Three",
+    //     year:"2020",
+    //     projectTitle:"Students' Tracking System",
+    //     projectFile:"sts.pdf"
+    // },
+    // {
+    //     teamName:"Premier",
+    //     teamMembers:"Nansubuga Gloria, Achieng Christine, Atukunda Zillah",
+    //     cohort:"Three",
+    //     year:"2020",
+    //     projectTitle:"Students' Tracking System",
+    //     projectFile:"sts.pdf"
+    // },
     {
-        teamName:"Premier",
-        teamMembers:"Nansubuga Gloria, Achieng Christine, Atukunda Zillah",
-        cohort:"Three",
-        year:"2020",
-        projectTitle:"Students' Tracking System",
-        projectFile:"sts.pdf"
-    },
-    {
-        teamName:"Premier",
-        teamMembers:"Nansubuga Gloria, Achieng Christine, Atukunda Zillah",
-        cohort:"Three",
-        year:"2020",
-        projectTitle:"Students' Tracking System",
-        projectFile:"sts.pdf"
-    },
-    {
-        teamName:"Premier",
-        teamMembers:"Nansubuga Gloria, Achieng Christine, Atukunda Zillah",
-        cohort:"Three",
-        year:"2020",
-        projectTitle:"Students' Tracking System",
-        projectFile:"sts.pdf"
-    },
-    {
-        teamName:"Premier",
-        teamMembers:"Nansubuga Gloria, Achieng Christine, Atukunda Zillah",
-        cohort:"Three",
-        year:"2020",
-        projectTitle:"Students' Tracking System",
-        projectFile:"sts.pdf"
+        teamName:"Mighty ones",
+        teamMembers:"Mary Ayeng, Eron Muwogo",
+        cohort:"one",
+        year:"2019",
+        projectTitle:"Students' Registration System",
+        projectFile:"srs.pdf"
     }
 ]
 
